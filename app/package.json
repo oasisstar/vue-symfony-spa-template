@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "@websanova/vue-auth": "^2.21.14-beta",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap-vue": "^2.0.0-rc.11",
     "dotenv-webpack": "^1.5.7",
     "form-serialize": "^0.7.2",
